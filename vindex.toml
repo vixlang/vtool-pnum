@@ -3,5 +3,5 @@ name = "pnum"
 version = "v0.1"
 description = "Vix 项目管理与构建工具"
 readme = "README.md"
-enterpoint = "primex.vix"
+entrypoint = "primex.vix"
 deps = []
