@@ -1,6 +1,6 @@
 [project]
 name = "pnum"
-version = "0.3.0"
+version = "v0.1"
 description = "Vix 项目管理与构建工具"
 readme = "README.md"
 deps = []
