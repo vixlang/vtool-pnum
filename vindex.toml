@@ -1,7 +1,7 @@
 [project]
 name = "pnum"
 version = "v0.1"
-description = "Vix 项目管理与构建工具"
+description = "A command-line integer analysis tool written in Vix"
 readme = "README.md"
 entrypoint = "primex.vix"
 deps = []
